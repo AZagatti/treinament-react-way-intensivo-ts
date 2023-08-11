@@ -1,0 +1,1 @@
+export const double = (num) => number * 2

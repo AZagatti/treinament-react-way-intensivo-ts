@@ -1,0 +1,20 @@
+{
+  "name": "pre",
+  "version": "1.0.0",
+  "main": "double.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}
